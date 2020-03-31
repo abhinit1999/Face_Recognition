@@ -17,7 +17,7 @@ with all other formats.
 
 
 
-# Library Required for this
+# Libraries Required for this
 
 import cv2
 
